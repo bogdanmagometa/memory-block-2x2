@@ -30,6 +30,3 @@ The two NOTs connected sequentially on the functional schematic are not my mista
 
 <img src="./img/7400_implementation.jpg" />
 
-
-# Additional tasks
-- not done yet
